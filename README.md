@@ -11,3 +11,5 @@ discord token grabber
 4.open cmd
 
 5.pip install requirements.txt
+
+6.open run
