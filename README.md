@@ -3,4 +3,5 @@
 discord token grabber 
 
 1.download zip files
-2.open run
+2.disable windows defender
+3.open run
