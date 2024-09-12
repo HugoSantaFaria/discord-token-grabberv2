@@ -8,4 +8,6 @@ discord token grabber
 
 3.disable windows defender
 
-4.open run
+4.open cmd
+
+5.pip install requirements.txt
